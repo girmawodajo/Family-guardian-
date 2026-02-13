@@ -1,0 +1,9 @@
+{
+  "name": "family guardian ",
+  "description": "A comprehensive parental control dashboard with AI-driven content analysis, screen time scheduling, and expert parenting advice powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
